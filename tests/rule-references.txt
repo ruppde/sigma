@@ -145,6 +145,7 @@ https://app.any.run/tasks/d6fe6624-6ef8-485d-aa75-3d1bdda2a08c/
 https://app.any.run/tasks/d860402c-3ff4-4c1f-b367-0237da714ed1/
 https://app.any.run/tasks/e13ab713-64cf-4b23-ad93-6dceaa5429ac/
 https://app.any.run/tasks/e1fe6a62-bce8-4323-a49a-63795d9afd5d/
+https://app.any.run/tasks/ea944b89-69d8-49c8-ac1f-5c76ad300db2
 https://app.any.run/tasks/ec207948-4916-47eb-a0f4-4c6abb2e7668/
 https://app.any.run/tasks/f420d295-0457-4e9b-9b9e-6732be227583/
 https://app.any.run/tasks/f74c5157-8508-4ac6-9805-d63fe7b0d399/
@@ -463,6 +464,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/setting-repl-config-perm-o
 https://docs.aws.amazon.com/awscloudtrail/latest/userguide/best-practices-security.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DisableEbsEncryptionByDefault.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ImportKeyPair.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-identity-roles.html
 https://docs.aws.amazon.com/cli/latest/reference/securityhub/
 https://docs.aws.amazon.com/config/latest/developerguide/cloudtrail-log-files-for-aws-config.html
 https://docs.aws.amazon.com/efs/latest/ug/API_DeleteFileSystem.html
@@ -1706,6 +1708,7 @@ https://github.com/win3zz/CVE-2023-43261
 https://github.com/winsiderss/systeminformer
 https://github.com/WiredPulse/Invoke-HiveNightmare
 https://github.com/WithSecureLabs/iocs/blob/344203de742bb7e68bd56618f66d34be95a9f9fc/FIN7VEEAM/iocs.csv
+https://github.com/wiz-sec-public/wiz-research-iocs/blob/a836ce8aacf12d6d2f6afc3c44b391dc4c08f46e/reports/shai-hulud-2-packages.csv
 https://github.com/wpscanteam/wpscan/blob/196fbab5b1ce3870a43515153d4f07878a89d410/lib/wpscan/browser.rb
 https://github.com/wunderwuzzi23/firefox-cookiemonster
 https://github.com/x1sec/CVE-2019-19781/blob/25f7ab97275b2d41800bb3414dac8ca3a78af7e5/CVE-2019-19781-DFIR.md
@@ -1869,6 +1872,7 @@ https://labs.withsecure.com/publications/detecting-onenote-abuse
 https://labs.withsecure.com/publications/fin7-target-veeam-servers
 https://labs.withsecure.com/publications/fin7-target-veeam-servers/jcr:content/root/responsivegrid/responsivegrid/responsivegrid/image_253944286.img.png/1682500394900.png
 https://labs.withsecure.com/publications/kapeka
+https://labs.yarix.com/2025/06/doppelganger-an-advanced-lsass-dumper-with-process-cloning/
 https://ladydebug.com/blog/2019/06/21/custom-protocol-handler-cph/
 https://learn.microsoft.com/de-de/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
 https://learn.microsoft.com/de-de/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3
@@ -1947,6 +1951,7 @@ https://learn.microsoft.com/en-us/entra/architecture/security-operations-applica
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#new-owner
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#device-administrator-roles
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#device-registrations-and-joins-outside-policy
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#non-compliant-device-sign-in
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-infrastructure
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-infrastructure#conditional-access
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts
@@ -2008,6 +2013,7 @@ https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomput
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-addefaultdomainpasswordpolicy?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/bitstransfer/add-bitsfile?view=windowsserver2019-ps
+https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference
 https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dism/disable-windowsoptionalfeature?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dnsclient/add-dnsclientnrptrule?view=windowsserver2022-ps
@@ -2065,9 +2071,11 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4699
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4732
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4771
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5038
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5140
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6281
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6416
@@ -2543,6 +2551,7 @@ https://packetstormsecurity.com/files/166692/Windows-User-Profile-Service-Privle
 https://paste.cryptolaemus.com/emotet/2020/12/22/emotet-malware-IoCs_12-22-20.html
 https://patrick-bareiss.com/detecting-local-user-creation-in-ad-with-sigma/
 https://pberba.github.io/security/2021/11/23/linux-threat-hunting-for-persistence-account-creation-manipulation/
+https://pberba.github.io/security/2022/01/30/linux-threat-hunting-for-persistence-systemd-timers-cron/
 https://pbs.twimg.com/media/EF3yLGoWkAEGeLa?format=jpg
 https://pbs.twimg.com/media/FtYbfsDXoAQ1Y8M?format=jpg&name=large
 https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
@@ -2692,6 +2701,7 @@ https://research.splunk.com/cloud/c783dd98-c703-4252-9e8a-f19d9f5c949e/
 https://research.splunk.com/cloud/e155876a-6048-11eb-ae93-0242ac130002/
 https://research.splunk.com/endpoint/07921114-6db4-4e2e-ae58-3ea8a52ae93f/
 https://research.splunk.com/endpoint/10399c1e-f51e-11eb-b920-acde48001122/
+https://research.splunk.com/endpoint/7215831c-8252-4ae3-8d43-db588e82f952
 https://research.splunk.com/endpoint/linux_doas_conf_file_creation/
 https://research.splunk.com/endpoint/linux_doas_tool_execution/
 https://research.splunk.com/endpoint/windows_possible_credential_dumping/
@@ -2989,6 +2999,7 @@ https://tria.ge/211119-gs7rtshcfr/behavioral2 [Lokibot sample from Nov 2021]
 https://tria.ge/220422-1nnmyagdf2/
 https://tria.ge/220422-1pw1pscfdl/
 https://tria.ge/231004-tp8k6sch9t/behavioral2
+https://tria.ge/231023-lpw85she57/behavioral2
 https://tria.ge/240123-rapteaahhr/behavioral1
 https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240226-fhbe7sdc39/behavioral1
@@ -3491,6 +3502,7 @@ https://web.archive.org/web/20210629055600/https://github.com/hhlxf/PrintNightma
 https://web.archive.org/web/20210701042336/https://github.com/afwu/PrintNightmare
 https://web.archive.org/web/20210725081645/https://github.com/cube0x0/CVE-2021-36934
 https://web.archive.org/web/20210901184449/https://www.fireeye.com/blog/threat-research/2021/09/unknown-actor-using-clfs-log-files-for-stealth.html
+https://web.archive.org/web/20220205033028/https://twitter.com/PythonResponder/status/1385064506049630211
 https://web.archive.org/web/20220224045756/https://www.ria.ee/sites/default/files/content-editors/kuberturve/tale_of_gamaredon_infection.pdf
 https://web.archive.org/web/20220306121156/https://www.x86matthew.com/view_post?id=ntdll_pipe
 https://web.archive.org/web/20220419045003/https://cyberwardog.blogspot.com/2017/04/chronicles-of-threat-hunter-hunting-for.html
@@ -3959,6 +3971,7 @@ https://www.netspi.com/blog/technical/network-penetration-testing/decrypting-iis
 https://www.netspi.com/blog/technical/network-penetration-testing/sql-server-persistence-part-1-startup-stored-procedures/
 https://www.nextron-systems.com/2021/08/16/antivirus-event-analysis-cheat-sheet-v1-8-2/
 https://www.nextron-systems.com/2021/10/24/monero-mining-pool-fqdns/
+https://www.nextron-systems.com/2024/03/22/unveiling-kamikakabot-malware-analysis/
 https://www.nextron-systems.com/?s=antivirus
 https://www.nirsoft.net/utils/nircmd.html
 https://www.nirsoft.net/utils/nircmd2.html#using
@@ -3973,6 +3986,7 @@ https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/Unit_4
 https://www.papercut.com/kb/Main/PO-1216-and-PO-1219
 https://www.passcape.com/windows_password_recovery_dpapi_credhist
 https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf
+https://www.pcrisk.com/removal-guides/31853-funklocker-funksec-ransomware
 https://www.pdq.com/pdq-deploy/
 https://www.peew.pw/blog/2017/11/26/exploring-cmdkey-an-edge-case-for-privilege-escalation
 https://www.php.net/manual/en/features.commandline.php
@@ -3987,6 +4001,7 @@ https://www.powershellgallery.com/packages/DSInternals
 https://www.praetorian.com/blog/how-to-use-kerberoasting-t1208-for-privilege-escalation/?edition=2019
 https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/
 https://www.proofpoint.com/us/blog/threat-insight/part-1-socgholish-very-real-threat-very-fake-update
+https://www.proofpoint.com/us/blog/threat-insight/phish-china-aligned-espionage-actors-ramp-up-taiwan-semiconductor-targeting
 https://www.proofpoint.com/us/blog/threat-insight/serpent-no-swiping-new-backdoor-targets-french-entities-unique-attack-chain
 https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new
 https://www.proofpoint.com/us/blog/threat-insight/threat-actor-profile-ta2719-uses-colorful-lures-deliver-rats-local-languages
@@ -4083,6 +4098,7 @@ https://www.splunk.com/en_us/blog/security/darkside-ransomware-splunk-threat-upd
 https://www.splunk.com/en_us/blog/security/follina-for-protocol-handlers.html
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
 https://www.sprocketsecurity.com/resources/crossing-the-log4j-horizon-a-vulnerability-with-no-return
+https://www.stepsecurity.io/blog/sha1-hulud-the-second-coming-zapier-ens-domains-and-other-prominent-npm-packages-compromised
 https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://www.sygnia.co/golden-saml-advisory
 https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets
