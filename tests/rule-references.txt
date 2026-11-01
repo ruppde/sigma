@@ -86,6 +86,7 @@ https://any-api.com/googleapis_com/compute/docs/vpnTunnels
 https://any.run/report/3ecd4763ffc944fdc67a9027e459cd4f448b1a8d1b36147977afaf86bbf2a261/64b0ba45-e7ce-423b-9a1d-5b4ea59521e6
 https://any.run/report/68bc255f9b0db6a0d30a8f2dadfbee3256acfe12497bf93943bc1eab0735e45e/a2385d6f-34f7-403c-90d3-b1f9d2a90a5e
 https://anydesk.com/en/changelog/windows
+https://apophis133.medium.com/powershell-script-tactical-rmm-installation-45afb639eff3
 https://app.any.run/tasks/17f2d378-6d11-4d6f-8340-954b04f35e83/
 https://app.any.run/tasks/1df999e6-1cb8-45e3-8b61-499d1b7d5a9b/
 https://app.any.run/tasks/1efb3ed4-cc0f-4690-a0ed-24516809bc72/
@@ -145,6 +146,7 @@ https://app.any.run/tasks/d6fe6624-6ef8-485d-aa75-3d1bdda2a08c/
 https://app.any.run/tasks/d860402c-3ff4-4c1f-b367-0237da714ed1/
 https://app.any.run/tasks/e13ab713-64cf-4b23-ad93-6dceaa5429ac/
 https://app.any.run/tasks/e1fe6a62-bce8-4323-a49a-63795d9afd5d/
+https://app.any.run/tasks/ea944b89-69d8-49c8-ac1f-5c76ad300db2
 https://app.any.run/tasks/ec207948-4916-47eb-a0f4-4c6abb2e7668/
 https://app.any.run/tasks/f420d295-0457-4e9b-9b9e-6732be227583/
 https://app.any.run/tasks/f74c5157-8508-4ac6-9805-d63fe7b0d399/
@@ -189,6 +191,7 @@ https://bi-zone.medium.com/hunting-down-ms-exchange-attacks-part-1-proxylogon-cv
 https://bi-zone.medium.com/hunting-for-zerologon-f65c61586382
 https://bidouillesecurity.com/disable-windows-defender-in-powershell/
 https://bidouillesecurity.com/disable-windows-defender-in-powershell/#DisableAntiSpyware
+https://blackpointcyber.com/blog/racing-to-exploit-centrestacks-cve-2025-30406/
 https://blackpointcyber.com/resources/blog/breaking-through-the-screen/
 https://blog.3or.de/hunting-dns-server-level-plugin-dll-injection.html
 https://blog.3or.de/mimilib-dhcp-server-callout-dll-injection.html
@@ -761,6 +764,7 @@ https://eqllib.readthedocs.io/en/latest/analytics/fcdb99c2-ac3c-4bde-b664-4b3363
 https://eqllib.readthedocs.io/en/latest/analytics/fd9b987a-1101-4ed3-bda6-a70300eaf57e.html
 https://ermetic.com/blog/aws/aws-ec2-imds-what-you-need-to-know/
 https://evasions.checkpoint.com/techniques/macos.html
+https://expel.com/blog/cache-smuggling-when-a-picture-isnt-a-thousand-words/
 https://f5.pm/go-59627.html
 https://fabian-voith.de/2020/06/25/sysmon-v11-1-reads-alternate-data-streams/
 https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
@@ -1111,6 +1115,7 @@ https://github.com/LandGrey/CVE-2018-2894
 https://github.com/lanmaster53/recon-ng/blob/9e907dfe09fce2997f0301d746796408e01a60b7/recon/core/base.py#L92
 https://github.com/last-byte/PersistenceSniper
 https://github.com/lclevy/firepwd
+https://github.com/Lifailon/RSA/blob/rsa/Sources/RSA-1.4.1.ps1#L1468
 https://github.com/Lifka/hacking-resources/blob/c2ae355d381bd0c9f0b32c4ead049f44e5b1573f/cloud-hacking-cheat-sheets.md
 https://github.com/lijiejie/IIS_shortname_Scanner
 https://github.com/lkys37en/Start-ADEnum/blob/5b42c54215fe5f57fc59abc52c20487d15764005/Functions/Start-ADEnum.ps1#L680
@@ -2074,6 +2079,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6423
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc959352(v=technet.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc960241(v=technet.10)?redirectedfrom=MSDN
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd299871(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd348773(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731033(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731620(v=ws.11)
@@ -2138,6 +2144,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-delete
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/secedit
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/systeminfo
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-recovery
@@ -3761,6 +3768,8 @@ https://www.gorillastack.com/blog/real-time-events/important-aws-cloudtrail-secu
 https://www.gov.pl/attachment/ee91f24d-3e67-436d-aa50-7fa56acf789d
 https://www.gpg4win.de/documentation.html
 https://www.gradenegger.eu/en/details-of-the-event-with-id-53-of-the-source-microsoft-windows-certificationauthority/
+https://www.group-ib.com/blog/apt41-world-tour-2021/
+https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/
 https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/
 https://www.gteltsc.vn/blog/canh-bao-chien-dich-tan-cong-su-dung-lo-hong-zero-day-tren-microsoft-exchange-server-12714.html
 https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
@@ -3770,6 +3779,7 @@ https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
 https://www.helpnetsecurity.com/2023/08/02/aws-instances-attackers-access/
+https://www.hexacorn.com/blog/2018/04/27/i-shot-the-sigverif-exe-the-gui-based-lolbin/
 https://www.hhs.gov/sites/default/files/manage-engine-vulnerability-sector-alert-tlpclear.pdf
 https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/
 https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-tooling
