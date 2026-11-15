@@ -175,6 +175,7 @@ https://attackerkb.com/topics/Bkij5kK1qK/cve-2022-21587/rapid7-analysis
 https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400/rapid7-analysis
 https://awakesecurity.com/blog/threat-hunting-for-paexec/
 https://awscli.amazonaws.com/v2/documentation/api/2.14.0/reference/account/enable-region.html
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-flow-logs.html
 https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket.html
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
@@ -258,6 +259,7 @@ https://blog.router-switch.com/2013/11/show-running-config/
 https://blog.sekoia.io/aurora-a-rising-stealer-flying-under-the-radar
 https://blog.sekoia.io/darkgate-internals/
 https://blog.sekoia.io/lucky-mouse-incident-response-to-detection-engineering/
+https://blog.sekoia.io/scattered-spider-laying-new-eggs/
 https://blog.skyplabs.net/posts/container-detection/
 https://blog.stealthbits.com/how-to-detect-pass-the-hash-attacks/
 https://blog.sygnia.co/kaseya-ransomware-supply-chain-attack
@@ -270,6 +272,7 @@ https://blog.talosintelligence.com/gophish-powerrat-dcrat/
 https://blog.talosintelligence.com/ipfs-abuse/
 https://blog.talosintelligence.com/modernloader-delivers-multiple-stealers-cryptominers-and-rats/
 https://blog.talosintelligence.com/uat-5647-romcom/
+https://blog.talosintelligence.com/uncovering-qilin-attack-methods-exposed-through-multiple-cases/
 https://blog.thecybersecuritytutor.com/Exeuction-AWL-Bypass-Remote-exe-LOLBin/
 https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
 https://blog.trendmicro.com/trendlabs-security-intelligence/attack-using-windows-installer-msiexec-exe-leads-lokibot/
@@ -440,6 +443,7 @@ https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-secur
 https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-user-settings#GRANT_ADMIN_PRIVILEGE
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.Firewalls.html
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.PacketMirrorings.html
+https://developers.google.com/workspace/admin/reports/v1/appendix/activity/login#email_forwarding_out_of_domain
 https://developers.onelogin.com/api-docs/1/events/event-resource
 https://developers.onelogin.com/api-docs/1/events/event-resource/
 https://deviceatlas.com/blog/list-of-user-agent-strings#desktop
@@ -1861,6 +1865,7 @@ https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-tr
 https://labs.sentinelone.com/sarwent-malware-updates-command-detonation/
 https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/
 https://labs.sentinelone.com/top-tier-russian-organized-cybercrime-group-unveils-fileless-stealthy-powertrick-backdoor-for-high-value-targets/
+https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/?123
 https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/
 https://labs.watchtowr.com/xortigate-or-cve-2023-27997/
 https://labs.withsecure.com/content/dam/labs/docs/f-secureLABS-tlp-white-lazarus-threat-intel-report2.pdf
@@ -2370,6 +2375,7 @@ https://man.openbsd.org/ssh_config#ProxyCommand
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
+https://man7.org/linux/man-pages/man2/personality.2.html
 https://man7.org/linux/man-pages/man7/bpf-helpers.7.html
 https://man7.org/linux/man-pages/man8/getcap.8.html
 https://man7.org/linux/man-pages/man8/kmod.8.html
@@ -3615,6 +3621,7 @@ https://www.cisco.com/c/en/us/td/docs/ios/12_2sr/12_2sra/feature/guide/srmgtint.
 https://www.cisco.com/c/en/us/td/docs/server_nw_virtual/2-5_release/command_reference/show.html
 https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5000/sw/command/reference/sysmgmt/n5k-sysmgmt-cr/n5k-sm_cmds_c.html
 https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/show_startup-config.htm
+https://www.cisco.com/en/US/docs/ios-xml/ios/san/command/san-xe-3se-3850-cr-book_chapter_00.html#wp3394428680
 https://www.cisco.com/en/US/docs/ios/security/command/reference/sec_a2.pdf
 https://www.cisecurity.org/controls/cis-controls-list/
 https://www.clearskysec.com/wp-content/uploads/2018/11/MuddyWater-Operations-in-Lebanon-and-Oman.pdf
@@ -3770,6 +3777,8 @@ https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
 https://www.helpnetsecurity.com/2023/08/02/aws-instances-attackers-access/
+https://www.hexacorn.com/blog/2013/09/19/beyond-good-ol-run-key-part-4/
+https://www.hexacorn.com/blog/2023/12/26/1-little-known-secret-of-runonce-exe-32-bit/
 https://www.hhs.gov/sites/default/files/manage-engine-vulnerability-sector-alert-tlpclear.pdf
 https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/
 https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-tooling
@@ -4332,6 +4341,7 @@ https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-by
 https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-cve-2023-1389-added-to-the-mirai-botnet-arsenal
 https://www.zoocoup.org/casper/jamf_cheatsheet.pdf
 https://www.zscaler.com/blogs/security-research/coldriver-updates-arsenal-baitswitch-and-simplefix
+https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-spikedwine-wineloader
 https://www.zscaler.com/blogs/security-research/ffdroider-stealer-targeting-social-media-platform-users
 https://www.zscaler.com/blogs/security-research/new-espionage-attack-molerats-apt-targeting-users-middle-east
 https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-distribution
